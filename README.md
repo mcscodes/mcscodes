@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mcscodes
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning about machine learning.
